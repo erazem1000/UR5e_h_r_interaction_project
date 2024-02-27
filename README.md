@@ -1,0 +1,1 @@
+This project is intended to be a colaborative workspace to create safe colaboration program to work with UR5e robot. The main goal is to create a safe environment to work with the robot, so the robot can work with humans without any risk of injury. It means operation according to the applicable standard. 
