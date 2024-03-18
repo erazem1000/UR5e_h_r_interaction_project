@@ -1,1 +1,0 @@
-plot(out.hitrost(1))
